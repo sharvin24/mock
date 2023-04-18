@@ -1,0 +1,69 @@
+.App-header{
+
+    margin-top: 5px;
+    width: 100%;
+    background-color: white;
+   }
+      
+    .App-header.App-logo{
+     height: 10%;
+     width: 15%;
+    }
+       
+    .App {    
+    background-image: url(https://t4.ftcdn.net/jpg/01/95/26/47/360_F_195264785_oHApyzWMRq6EnHLfWy81MSKbbpp8yCkc.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    }
+        
+    table {
+       
+    border: 2px solid rgb(255, 255, 255);
+    width: 800px;
+    height: 500px;
+      
+    }
+       
+    th {
+        
+    border-bottom: 1px solid rgb(255, 255, 255);
+    color: white;
+    }
+        
+    td {
+       
+    text-align: center;
+    color: white;
+    }
+        
+    .button{
+    
+    margin-right: 1000px;
+        
+    }
+        
+    .container{
+    
+    width: 100%;
+    
+    }
+       
+    /* header{
+    
+      margin-top: 50rem;
+    
+    } */
+        
+    .App-logo{
+    
+     margin-top: 3rem;
+    
+    }
